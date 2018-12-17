@@ -30,3 +30,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.logo {
+  width: 65px;
+  height: 65px;
+}
+
+.logo-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0 0;
+ 
+}
